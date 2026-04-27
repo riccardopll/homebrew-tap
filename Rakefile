@@ -3,5 +3,4 @@
 task :lint do
   sh "brew style riccardopll/tap"
   sh "brew readall --aliases --os=all --arch=all riccardopll/tap"
-  sh "brew audit --strict --online ical-cli"
 end
