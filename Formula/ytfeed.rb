@@ -3,14 +3,14 @@
 class Ytfeed < Formula
   desc "Scrape YouTube homepage videos into an LLM-friendly format"
   homepage "https://github.com/riccardopll/ytfeed"
-  url "https://github.com/riccardopll/ytfeed/releases/download/0.0.6/ytfeed-0.0.6-arm64-macos.tar.gz"
-  sha256 "d2534c66503a58448ab536596039f419e2c18ce67cb58dcf7d4df8f591dc77e8"
+  url "https://github.com/riccardopll/ytfeed/releases/download/0.0.7/ytfeed-0.0.7-arm64-macos.tar.gz"
+  sha256 "bc10945a0c38e537aee225a77030965ad1457f36e873b03cd14899d77c23bbe0"
   license "MIT"
 
   on_macos do
     on_intel do
-      url "https://github.com/riccardopll/ytfeed/releases/download/0.0.6/ytfeed-0.0.6-x86_64-macos.tar.gz"
-      sha256 "ef27a02ed1c3ac4905894ee2f5e3b2b408d4746750c2e918469cf82a7675578d"
+      url "https://github.com/riccardopll/ytfeed/releases/download/0.0.7/ytfeed-0.0.7-x86_64-macos.tar.gz"
+      sha256 "b6827b2b3f48a783195ee28ab6cbbb755f1901da94a7064802acddc6118563a3"
     end
   end
 
