@@ -13,5 +13,5 @@ brew install riccardopll/tap/<name>
 
 | Formula  | Description                    |
 | -------- | ------------------------------ |
-| `ical`   | Read-only macOS Calendar CLI   |
+| `ical`   | Apple Calendar CLI             |
 | `ytfeed` | Scrape YouTube homepage videos |
