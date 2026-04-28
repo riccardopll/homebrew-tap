@@ -4,13 +4,14 @@ Homebrew tap for shipping my CLI tools.
 
 ## Install
 
-```console
+```bash
 brew tap riccardopll/tap
 brew install riccardopll/tap/<name>
 ```
 
 ## Formulae
 
-| Formula | Description                  |
-| ------- | ---------------------------- |
-| `ical`  | Read-only macOS Calendar CLI |
+| Formula  | Description                    |
+| -------- | ------------------------------ |
+| `ical`   | Read-only macOS Calendar CLI   |
+| `ytfeed` | Scrape YouTube homepage videos |
