@@ -11,7 +11,8 @@ brew install riccardopll/tap/<name>
 
 ## Formulae
 
-| Formula  | Description                    |
-| -------- | ------------------------------ |
-| `ical`   | Apple Calendar CLI             |
-| `ytfeed` | Scrape YouTube homepage videos |
+| Formula     | Description                                      |
+| ----------- | ------------------------------------------------ |
+| `ical`      | Apple Calendar CLI                               |
+| `teams-cli` | Read and send Microsoft Teams desktop messages   |
+| `ytfeed`    | Scrape YouTube homepage videos                   |
